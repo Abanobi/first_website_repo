@@ -1,4 +1,69 @@
 /*Add your css code here*/
-div {
-  color: red;
+html,
+ .body{
+   background-color: #fff;
+   font-weight: 500;
+  font-family: 'Roboto', sans-serif;
+  font-size: 40px;
+
+}
+header {
+  padding:20px 0;
+  background-color: #469695;
+}
+
+.page-title{
+  text-align: center;
+  font-weight: 500;
+  font-size: 70px;
+  color: white;}
+
+.page-discription{
+  text-align: center;
+  color:black;
+  font-size: 25px;
+}
+
+.col_sm_8{
+color:green;
+text-align: right;
+padding: 0 20px;
+font-size: 21px}
+
+h5{
+  background-color: black;
+  text-align:center;
+  color: white;
+}
+ header img{
+  background: image;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footer col_sm_4{
+  color:black;
+}
+
+}
+
+.Contact-btn{
+  float: right;
+}
+
+.Contact-btn a{
+margin-right:30px;
+padding:8px 18px;
+border: 1px solid #204156;
 }
